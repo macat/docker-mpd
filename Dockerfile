@@ -16,4 +16,4 @@ RUN chmod +x /home/mpd/start.sh
 
 EXPOSE 6600 8000
 
-ENTRYPOINT /home/mpd/start.sh
+CMD /home/mpd/start.sh
