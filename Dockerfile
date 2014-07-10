@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Attila Macza <attila@maczak.hu>
+MAINTAINER Attila Maczak <attila@maczak.hu>
 
 # must run in privileged mode (-privileged)
 
